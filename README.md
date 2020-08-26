@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 Wordpress: Criação de tema, Sites Multipages, Institucionais e Landing Pages, costumo utilizar plugin ACF e Elementor PRO.
 - ⚡ Buscando novos conhecimentos em cursos onlines como Origamid, Udemy, UpInside.
-- 💻 Minha stack: HTML, CSS, JavaScript, SASS, WordPress, PHP.
+- 💻 Minha stack: HTML, CSS, JavaScript, SASS, WordPress, PHP, MySql
 - 📘 Estudando: JavaScript, VueJS, ReactJS, Node.js, PHP.
 - 💬 Sobre mim: Costumo fazer networks com profissionais da área para ter pedir dicas de stack que tenho experiencia e que procuro entender como funciona.
 - 📫 viturino_souza@outlook.com
@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
