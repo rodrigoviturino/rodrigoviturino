@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi Friends! 👋
 👨🏻‍💻 Front-end Developement 👨🏻‍💻  
 
-<img align="right" height="200" src="https://i.gifer.com/6N3n.gif" />
+<img align="right" height="200" src="https://media1.tenor.com/images/b0c5949e0e2c0887e8f6f7168e68da41/tenor.gif?itemid=14859609"/>
 
 - 🔭 Wordpress: Criação de tema, Sites Multipages, Institucionais e Landing Pages, costumo utilizar plugin ACF e Elementor PRO.
 - ⚡ Buscando novos conhecimentos em cursos onlines como Origamid, Udemy, UpInside.
