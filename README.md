@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 <img align="right" height="200" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
-- 🔭 Wordpress: Criação de tema, Sites Multipages, Institucionais e Landing Pages, costumo utilizar plugin ACF e Elementor PRO.
-- ⚡ Buscando novos conhecimentos em cursos onlines como Origamid, Udemy, UpInside.
-- 💻 Minha stack: HTML, CSS, JavaScript, SASS, WordPress, PHP, MySql
-- 📘 Estudando: JavaScript, VueJS, ReactJS, Node.js, PHP.
-- 💬 Sobre mim: Costumo fazer networks com profissionais da área para ter pedir dicas de stack que tenho experiencia e que procuro entender como funciona.
+- 🔭 I’m currently working on: Wordpress: Criação de tema, Sites Multipages, Institucionais e Landing Pages, costumo utilizar plugin ACF e Elementor PRO.
+- ⚡ Fun fact: Buscando novos conhecimentos em cursos onlines como Origamid, Udemy, UpInside.
+- 💻 Stack: HTML, CSS, JavaScript, SASS, WordPress, PHP, MySql
+- 📘 I’m currently learning: JavaScript, VueJS, ReactJS, Node.js, PHP.
+- 💬 About: Costumo fazer networks com profissionais da área para ter pedir dicas de stack que tenho experiencia e que procuro entender como funciona.
 - 📫 viturino_souza@outlook.com
 
 <code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
