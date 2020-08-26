@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **rodrigoviturino/rodrigoviturino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi There! 👋
+### Hi Friends! 👋
 👨🏻‍💻 Front-end Developement 👨🏻‍💻  
 
 <img align="right" height="200" src="https://i.gifer.com/6N3n.gif"/>
