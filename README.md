@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### <h1>Rodrigo Viturino 👋</h1>
 
 👨🏻‍💻 Front-end Developement 👨🏻‍💻  
-<a href="https://www.linkedin.com/in/rodrigo-viturino-11215094/"><img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg">Rodrigo Viturino</a>
+<code><a href="https://www.linkedin.com/in/rodrigo-viturino-11215094/"><img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg">Rodrigo Viturino</a></code>
 <img align="right" height="200" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
 - 🔭 I’m currently working on: Wordpress: Theme creation, Website Multipages, Institutional and Landing Pages, I usually use plugin ACF and Elementor PRO.
