@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Olá amigos! 👋
+### Hi There! 👋
 👨🏻‍💻 Front-end Developement 👨🏻‍💻  
 
-<img align="right" height="200" src="https://miro.medium.com/max/875/1*vhoE-Yw2HgrlScZmR_L1zA.gif"/>
+<img align="right" height="200" src="https://i.gifer.com/6N3n.gif"/>
 
 - 🔭 Wordpress: Criação de tema, Sites Multipages, Institucionais e Landing Pages, costumo utilizar plugin ACF e Elementor PRO.
 - ⚡ Buscando novos conhecimentos em cursos onlines como Origamid, Udemy, UpInside.
