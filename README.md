@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 ### <h1>Rodrigo Viturino 👋</h1>
 
 👨🏻‍💻 Front-end Developement 👨🏻‍💻  
+
 <code><a href="https://www.linkedin.com/in/rodrigo-viturino-11215094/" target="_blank"><img height="20" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">Rodrigo Viturino</a></code> | 🚀<a href="http://rodrigoviturino.com.br/">Portfólio</a>
 
 <img align="right" height="200" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
