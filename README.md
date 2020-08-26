@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi Friends! 👋
+### <h1>Rodrigo Viturino</h1> 👋
+<hr>
 👨🏻‍💻 Front-end Developement 👨🏻‍💻  
-
+<a href="https://google.com">Linkedin</a>
 <img align="right" height="200" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
 - 🔭 I’m currently working on: Wordpress: Theme creation, Website Multipages, Institutional and Landing Pages, I usually use plugin ACF and Elementor PRO.
