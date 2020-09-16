@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Seeking new knowledge in online courses like online as Origamid, Udemy, UpInside.
 - 💻 Stack: HTML, CSS, JavaScript, SASS, WordPress, PHP, MySql.
 - 📘 I’m currently learning: JavaScript, VueJS, ReactJS, Node.js, PHP.
-- 💬 About: I usually network with professionals in the field to ask for stack tips that I have experience and that I try to understand how it works.
+- 💬 About: I usually network with professionals in the field to ask for stack tips that I have experience and that I try to understand how it works. 
 - 📫 viturino_souza@outlook.com
 
 <code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
