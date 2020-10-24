@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 - 💬 About: I usually network with professionals in the field to ask for stack tips that I have experience and that I try to understand how it works. 
 - 📫 viturino_souza@outlook.com
 
-
 <code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
