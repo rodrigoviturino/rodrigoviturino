@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --->
-
 ### <h1>Rodrigo Viturino 👋</h1>
 
 👨🏻‍💻 Front-end Developement 👨🏻‍💻  
