@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 💬 About: I usually network with professionals in the field to ask for stack tips that I have experience and that I try to understand how it works. 
 - 📫 viturino_souza@outlook.com
 
-<code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
+<code><img height="30" src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png"></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><a href="https://www.linux.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
@@ -43,5 +43,6 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/7658037?v=3&s=200"></code>
 <code><img height="30" src="https://pics.freeicons.io/uploads/icons/png/13633835291536125454-512.png"></code>
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cucumber_icon_130657.png"></code>
+
 
 
